@@ -1,0 +1,15 @@
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.csproj.AssemblyReference.cache
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.AssemblyInfoInputs.cache
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.AssemblyInfo.cs
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mbate\Projects\App-Interfaces\bin\Debug\net7.0\App-Interfaces.exe
+C:\Users\mbate\Projects\App-Interfaces\bin\Debug\net7.0\App-Interfaces.deps.json
+C:\Users\mbate\Projects\App-Interfaces\bin\Debug\net7.0\App-Interfaces.runtimeconfig.json
+C:\Users\mbate\Projects\App-Interfaces\bin\Debug\net7.0\App-Interfaces.dll
+C:\Users\mbate\Projects\App-Interfaces\bin\Debug\net7.0\App-Interfaces.pdb
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.dll
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\refint\App-Interfaces.dll
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.pdb
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\App-Interfaces.genruntimeconfig.cache
+C:\Users\mbate\Projects\App-Interfaces\obj\Debug\net7.0\ref\App-Interfaces.dll
